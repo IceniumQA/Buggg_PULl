@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Pull_Bug",
+  "ProjectGuid": "ad4ababd-9de9-409a-98e1-92a4b265b72e",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.PullBug",
+  "DisplayName": "Pull_Bug",
+  "Author": "",
+  "Description": "Pull_Bug",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{572cf3f9-1ed0-4175-bb37-d238c9111341}",
+  "WP8ProductID": "{49e8ba85-c431-4dd2-b8d8-7c4a5fb232b2}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.PullBug",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
